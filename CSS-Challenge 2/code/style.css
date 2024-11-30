@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+}
+.w-60 {
+  width: 60%;
+}
+.m-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-center {
+  text-align: center;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.inline-block {
+  display: inline-block;
+}
+.bg-violet {
+  background-color: #7d8bae;
+}
+.bg-dark-violet {
+  background-color: #45496a;
+}
+.bg-pink {
+  background-color: #f1b2b2;
+}
+.color-white {
+  color: white;
+}
+
+.btn {
+  padding: 15px 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.header-section img.banner {
+  width: 50%;
+}
+.header-section h1 {
+  font-size: 54px;
+}
+.header-description {
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 20%;
+  border-radius: 15px;
+  padding: 40px 20px;
+}
+.card img {
+  width: 10%;
+}
+.cards-section {
+  padding: 150px 0;
+}
+.cards-section h3 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.cards-section p {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5;
+  text-transform: capitalize;
+}
+
+.welcome-section {
+  padding: 100px 0;
+}
+.welcome-inner-box {
+  border-left: 5px solid #f1b2b2;
+  border-right: 5px dotted #f1b2b2;
+  padding: 0 50px;
+  line-height: 1.5;
+}
+
+.contact-section {
+  margin: 100px auto;
+  padding: 30px;
+  border: 3px dashed #45496a;
+}
+.contact-section h3 {
+  font-size: 30px;
+  color: #45496a;
+}
+.contact-section p {
+  line-height: 1.5;
+  font-size: 18px;
+}
+.contact-section input {
+  border-radius: 25px;
+  padding: 15px 20px;
+  border: 1px solid #45496a;
+  outline: none;
+  width: 30%;
+}
+.contact-section input::placeholder {
+  font-style: italic;
+}
+.contact-section form button {
+    width: 12%;
+  }
+
+footer {
+    background-color: #191919;
+    padding: 50px 0;
+}
